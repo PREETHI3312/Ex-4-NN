@@ -170,7 +170,6 @@ print(classification_report(y_test, predictions, target_names=[str(c) for c in l
 <img width="532" height="199" alt="image" src="https://github.com/user-attachments/assets/2a4ae049-51fd-4b03-8582-9fbc29c326cf" />
 
 
-Show your results here
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
